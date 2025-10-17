@@ -5,7 +5,8 @@
 
 <!-- ✨ Typing Animation -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I'm+Sk+Habeeb+Ur+Rehman;Full+Stack+Developer+💻;Each+Line+of+Code+Is+Part+of+My+Painting;Crafting+Digital+Art+Through+Logic+🎨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I'm+Sk+Habeeb+Ur+Rehman;Full+Stack+Developer+💻;Each+Line+of+Code+Is+Part+of+My+Painting;Crafting+Digital+Art+Through+Logic+🎨" alt="Typing Animation" />
+
 </h1>
 
 </div>
