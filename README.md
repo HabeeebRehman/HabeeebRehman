@@ -76,7 +76,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+⭐;Let's+Build+Something+Amazing+Together!;Stay+Curious,+Stay+Creative+💡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+⭐;Let's+Build+Something+Amazing+Together!;Stay+Curious,+Stay+Creative+💡" alt="Typing Animation" />
+
 </p>
 
 ---
