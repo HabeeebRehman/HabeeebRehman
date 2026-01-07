@@ -42,21 +42,9 @@
 
 <div align="center">
 
-<a href="https://github.com/HabeeebRehman/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HabeeebRehman&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabeeebRehman&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-sable.vercel.app?user=HabeeebRehman&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
-<!-- <a href="https://git.io/streak-stats">
-  <img height="180" src="https://streak-stats.demolab.com/?user=HabeeebRehman&theme=dark&hide_border=true" /> -->
-</a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=HabeeebRehman&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</a>
 
 </div>
 
