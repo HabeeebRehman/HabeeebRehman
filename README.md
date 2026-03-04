@@ -17,7 +17,7 @@
 
 > “Each line of the code I write is part of my painting.”
 
-💻 **Full Stack Developer** who thrives on building elegant, scalable systems  
+💻 **Software Development Engineer** who thrives on building elegant, scalable systems  
 🚀 **Exploring:** AI Integration, Cloud Deployment (AWS/GCP), Reverse Engineering  
 🧠 **Core Stack:** React · Java · C++ · Node.js · Express · MongoDB  
 ☕ **Fun Fact:** I debug better with coffee & synthwave beats  
